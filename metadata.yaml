@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22163#The-Rover-Boys-on-the-Farm--or-Last-Days-at-Putnam-Hall
 gutenberg_bookshelf:
 - School Stories
 - Children's Book Series
