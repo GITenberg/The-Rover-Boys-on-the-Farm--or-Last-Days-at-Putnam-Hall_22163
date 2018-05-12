@@ -1,0 +1,37 @@
+_repo: The-Rover-Boys-on-the-Farm--or-Last-Days-at-Putnam-Hall_22163
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22163-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Children's Book Series
+gutenberg_issued: '2007-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Rover Boys on the Farm; or, Last Days at Putnam Hall
+url: http://www.gutenberg.org/ebooks/22163
